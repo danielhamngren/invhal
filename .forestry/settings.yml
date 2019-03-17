@@ -4,11 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: ''
+- type: document
+  path: content/projects/**/*
   label: Projects
-  create: all
-  match: content/projects/**/*
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
