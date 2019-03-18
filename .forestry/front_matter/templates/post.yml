@@ -13,4 +13,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/hacking-away.md
 - content/posts/second-post.md
