@@ -1,4 +1,4 @@
-baseURL = "blog.cnunc.nu"
+baseURL = "https://blog.cnuc.nu"
 languageCode = "en-us"
 title = "cnuc.nu"
 theme = "ananke"
