@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Hacking away</title>
+      <link>http://example.org/posts/hacking-away/</link>
+      <pubDate>Sun, 17 Mar 2019 23:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hacking-away/</guid>
+      <description>Trying to get all the paths and links to load properly.</description>
+    </item>
+    
+    <item>
       <title>Second post</title>
       <link>http://example.org/posts/second-post/</link>
       <pubDate>Sun, 17 Mar 2019 23:00:00 +0000</pubDate>
