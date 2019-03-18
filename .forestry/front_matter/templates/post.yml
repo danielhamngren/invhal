@@ -13,5 +13,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/time-to-cnuc-it.md
 - content/posts/hacking-away.md
 - content/posts/second-post.md
