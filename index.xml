@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cnuc.nu</title>
-    <link>https://danielhamngren.github.io/invhal/</link>
+    <link>blog.cnunc.nu/</link>
     <description>Recent content on cnuc.nu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Mar 2019 23:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://danielhamngren.github.io/invhal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.cnunc.nu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hacking away</title>
-      <link>https://danielhamngren.github.io/invhal/posts/hacking-away/</link>
+      <link>blog.cnunc.nu/posts/hacking-away/</link>
       <pubDate>Sun, 17 Mar 2019 23:00:00 +0000</pubDate>
       
-      <guid>https://danielhamngren.github.io/invhal/posts/hacking-away/</guid>
+      <guid>blog.cnunc.nu/posts/hacking-away/</guid>
       <description>Trying to get all the paths and links to load properly.
 Maybe this will do&amp;hellip;</description>
     </item>
     
     <item>
       <title>Second post</title>
-      <link>https://danielhamngren.github.io/invhal/posts/second-post/</link>
+      <link>blog.cnunc.nu/posts/second-post/</link>
       <pubDate>Sun, 17 Mar 2019 23:00:00 +0000</pubDate>
       
-      <guid>https://danielhamngren.github.io/invhal/posts/second-post/</guid>
+      <guid>blog.cnunc.nu/posts/second-post/</guid>
       <description>Whoop whoop. Now things are happening and we are going fast forward with this project.
 Be prepared to be wowed.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://danielhamngren.github.io/invhal/posts/my-first-post/</link>
+      <link>blog.cnunc.nu/posts/my-first-post/</link>
       <pubDate>Sun, 17 Mar 2019 20:11:50 +0000</pubDate>
       
-      <guid>https://danielhamngren.github.io/invhal/posts/my-first-post/</guid>
+      <guid>blog.cnunc.nu/posts/my-first-post/</guid>
       <description>This is actually my first post. Very smooth an sleek.</description>
     </item>
     
