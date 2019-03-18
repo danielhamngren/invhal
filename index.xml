@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://danielhamngren.github.io/invhal/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Mar 2019 23:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danielhamngren.github.io/invhal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hacking away</title>
-      <link>http://example.org/posts/hacking-away/</link>
+      <link>https://danielhamngren.github.io/invhal/posts/hacking-away/</link>
       <pubDate>Sun, 17 Mar 2019 23:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/hacking-away/</guid>
+      <guid>https://danielhamngren.github.io/invhal/posts/hacking-away/</guid>
       <description>Trying to get all the paths and links to load properly.
-Maybe this will do.</description>
+Maybe this will do&amp;hellip;</description>
     </item>
     
     <item>
       <title>Second post</title>
-      <link>http://example.org/posts/second-post/</link>
+      <link>https://danielhamngren.github.io/invhal/posts/second-post/</link>
       <pubDate>Sun, 17 Mar 2019 23:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/second-post/</guid>
+      <guid>https://danielhamngren.github.io/invhal/posts/second-post/</guid>
       <description>Whoop whoop. Now things are happening and we are going fast forward with this project.
 Be prepared to be wowed.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://danielhamngren.github.io/invhal/posts/my-first-post/</link>
       <pubDate>Sun, 17 Mar 2019 20:11:50 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://danielhamngren.github.io/invhal/posts/my-first-post/</guid>
       <description>This is actually my first post. Very smooth an sleek.</description>
     </item>
     
