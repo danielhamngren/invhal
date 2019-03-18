@@ -23,12 +23,6 @@
   </url>
   
   <url>
-    <loc>https://danielhamngren.github.io/invhal/</loc>
-    <lastmod>2019-03-17T23:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://danielhamngren.github.io/invhal/posts/</loc>
     <lastmod>2019-03-17T23:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -36,6 +30,12 @@
   
   <url>
     <loc>https://danielhamngren.github.io/invhal/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielhamngren.github.io/invhal/</loc>
+    <lastmod>2019-03-17T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
