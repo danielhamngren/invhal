@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/checking-out-2019-03-19-evening.md
 - content/posts/checking-in-2019-03-19.md
 - content/posts/time-to-cnuc-it.md
 - content/posts/hacking-away.md
