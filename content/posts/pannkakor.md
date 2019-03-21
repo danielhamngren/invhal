@@ -1,13 +1,13 @@
 +++
 date = "2019-03-21T22:00:00+01:00"
-title = "Pannkakor"
+title = "Pancakes"
 
 +++
-Ingredienser:
+Ingredients:
 
-* 3 dl Vetemjöl
-* 6 dl Sojamjölk
-* 1/2 dl Rapsolja
+* 3 dl Flour
+* 6 dl Soy Milk
+* 1/2 dl Rapeseed Oil
 * 1/2 krm Salt
 
-Vispa ihop och grädda. Mums
+Stir and bake. Yum.
