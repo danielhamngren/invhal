@@ -13,6 +13,8 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/contact.md
+- content/posts/pannkakor.md
 - content/projects/p2p-shell-history.md
 - content/posts/a-new-idea.md
 - content/posts/checking-out-2019-03-19-evening.md
