@@ -11,4 +11,4 @@ Ingredienser:
 * 1/2 dl Rapsolja
 * 1/2 krm Salt
 
-Vispa ihop och gradda. Mums
+Vispa ihop och grädda. Mums
