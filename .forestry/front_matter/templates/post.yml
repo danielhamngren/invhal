@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/projects/p2p-shell-history.md
 - content/posts/a-new-idea.md
 - content/posts/checking-out-2019-03-19-evening.md
 - content/posts/checking-in-2019-03-19.md
