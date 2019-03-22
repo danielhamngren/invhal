@@ -1,6 +1,6 @@
 +++
 date = "2019-03-18T23:00:00+00:00"
-featured_image = "/uploads/86F31974-08F0-4C00-95AE-CC35B0E3DBA2.jpeg"
+featured_image = "/uploads/8AC5E495-9F0D-49F0-9EAD-779066D65883.jpeg"
 title = "Checking in 2019-03-19"
 
 +++
