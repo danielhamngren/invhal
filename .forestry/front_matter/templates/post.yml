@@ -12,6 +12,11 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: file
+  name: featured_image
+  label: Featured Image
+  config:
+    maxSize: '10'
 pages:
 - content/contact.md
 - content/posts/pannkakor.md
