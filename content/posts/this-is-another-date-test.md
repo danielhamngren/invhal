@@ -1,5 +1,5 @@
 +++
-date = "2019-03-28T10:56:49+01:00"
+date = ""
 featured_image = ""
 title = "This is another date test "
 
