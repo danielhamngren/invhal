@@ -18,6 +18,7 @@ fields:
   config:
     maxSize: '10'
 pages:
+- content/posts/this-is-another-date-test.md
 - content/contact.md
 - content/posts/pannkakor.md
 - content/projects/p2p-shell-history.md
