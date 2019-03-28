@@ -11,7 +11,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: now
 - type: file
   name: featured_image
   label: Featured Image
