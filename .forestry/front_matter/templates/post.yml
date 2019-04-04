@@ -18,6 +18,7 @@ fields:
   config:
     maxSize: '10'
 pages:
+- content/projects/awesomecompany.md
 - content/posts/demonstration-time.md
 - content/posts/this-is-another-date-test.md
 - content/contact.md
