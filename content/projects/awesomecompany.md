@@ -5,12 +5,12 @@ featured_image = "/uploads/kitten.jpg"
 title = "AwesomeCompany"
 
 +++
-This company will make you rich and save the planet! 
+This company will make you **rich** and save the planet!
 
-They are into: 
+They are into:
 
 * planet saving
 * making people rich
 * cool kitties
 
-Here is a call to action: Button
+##### Here is a call to action: Button
