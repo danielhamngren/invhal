@@ -1,6 +1,5 @@
 +++
 date = "2019-04-04T20:06:22+02:00"
-draft = true
 featured_image = "/uploads/kitten.jpg"
 title = "AwesomeCompany"
 
