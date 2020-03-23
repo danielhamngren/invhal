@@ -1,6 +1,5 @@
 +++
 date = 2020-03-23T19:29:36Z
-draft = true
 featured_image = "/uploads/chill_out.png"
 title = "Git commit messages"
 
