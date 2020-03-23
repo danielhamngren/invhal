@@ -11,12 +11,9 @@ OK, so I read three articles/blog posts about good commit messages. I did this s
   * Use no more than 50 letters.
   * Don't end with a period.
   * This should be a good summary of the change.
-  * Write in **imperative mood**.
-    * Fix, not Fixes or Fixed.
-    * Add, not Adds or Added.
-    * Implement, not Implements or Implemented.
+  * Write in **imperative mood**: Fix, not Fixes or Fixed.
 * The second line should always be empty.
 * The body of the commit message should focus on **why** the change was made. (Unless it is a minor obvious change)
-* Then write **what** was done. Give context. This is the part that the subject line of the commit message is summarizing. 
+* Then write **what** was done. Give context. This is the part that the subject line of the commit message is summarizing.
 
 Happy committing.
