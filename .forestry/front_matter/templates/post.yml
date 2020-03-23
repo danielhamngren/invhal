@@ -18,15 +18,15 @@ fields:
   config:
     maxSize: '10'
 pages:
-- content/projects/awesomecompany.md
-- content/posts/demonstration-time.md
-- content/posts/this-is-another-date-test.md
 - content/contact.md
-- content/posts/pannkakor.md
-- content/projects/p2p-shell-history.md
 - content/posts/a-new-idea.md
-- content/posts/checking-out-2019-03-19-evening.md
 - content/posts/checking-in-2019-03-19.md
-- content/posts/time-to-cnuc-it.md
+- content/posts/checking-out-2019-03-19-evening.md
+- content/posts/demonstration-time.md
 - content/posts/hacking-away.md
+- content/posts/pannkakor.md
 - content/posts/second-post.md
+- content/posts/this-is-another-date-test.md
+- content/posts/time-to-cnuc-it.md
+- content/projects/awesomecompany.md
+- content/projects/p2p-shell-history.md
