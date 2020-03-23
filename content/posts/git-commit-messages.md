@@ -19,3 +19,5 @@ OK, so I read three articles/blog posts about good commit messages. I did this s
 * The second line should always be empty.
 * The body of the commit message should focus on **why** the change was made. (Unless it is a minor obvious change)
 * Then write **what** was done. Give context. This is the part that the subject line of the commit message is summarizing. 
+
+Happy committing.
